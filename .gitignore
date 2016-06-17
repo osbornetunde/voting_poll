@@ -1,0 +1,3 @@
+tut/
+__pycache__/
+*.sqlite3
